@@ -1,0 +1,27 @@
+{
+  "name": "fastify-mongoose-rabbit",
+  "version": "0.0.1",
+  "description": "Playing around with fastify, mongoose, and rabbitmq.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-CodeSchwert:CodeSchwert/fastify-mongoose-rabbit.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "fastify",
+    "mongoose",
+    "rabbitmq"
+  ],
+  "author": "CodeSchwert (https://github.com/CodeSchwert)",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.4.1",
+    "make-promises-safe": "^5.0.0"
+  }
+}
