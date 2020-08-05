@@ -21,7 +21,7 @@
   "author": "CodeSchwert (https://github.com/CodeSchwert)",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^2.4.1",
+    "fastify": "^2.15.1",
     "make-promises-safe": "^5.0.0"
   }
 }
